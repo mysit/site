@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');  /*шрифт*/
+body {    /* его настройки */
+	font-family: 'Roboto', sans-serif;
+	font-size: 115%
+	
+}
+body { /*цвет фона*/
+	background-color: white
+}
+
+body{  /*цвет текста*/
+	color:black
+}
+
+
+ 
+
+	
+
+
